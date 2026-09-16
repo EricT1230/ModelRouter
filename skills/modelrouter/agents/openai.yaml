@@ -1,0 +1,6 @@
+interface:
+  display_name: "ModelRouter"
+  short_description: "Model routing within your selected engineering workflow."
+  default_prompt: "Use $modelrouter to choose suitable delegation within my current workflow and complete the authorized work with honest execution evidence."
+policy:
+  allow_implicit_invocation: true

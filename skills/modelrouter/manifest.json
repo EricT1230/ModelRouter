@@ -1,0 +1,33 @@
+{
+  "version": "5.7.0",
+  "sha256": {
+    "agents/openai.yaml": "54148071a4025252cf732d1488f1fe1c0f5e43fa834fac0732810aa1613c2f7c",
+    "policy/defaults.json": "f6590132c7a8d49eec772e8cdb874e6c918692ecbbe485c589ee7ebc8040e8bb",
+    "references/calibration.md": "d140f5bd5a92a1d844c7386bf349cc5238b51c4063c12d6b6050f6002f70b15b",
+    "references/effort-budget.md": "6bd64e3c50f02d7518e571d7f6c030b6335e8a08dd785d929778d5907ed12e88",
+    "references/evidence-format.md": "bc8cc988df905883334537f93e41162956b8c41bfb07b230baa8075e5b5eac74",
+    "references/formats.md": "abb871d88990a575970d87247febb4b6a9ce55fcb9a26a4a78facb9233c2be36",
+    "references/metrics.md": "a0ea077ab6f47d56092abeaf7126015e522999f58da2bf6f5a56f1ffdc61ab12",
+    "references/registry.md": "cbaa2f6650d30e2e91b5658325c49a2ef207eef1b21a6c2372ca393e491dca6a",
+    "references/roles.md": "7ba6b22be0bc0bd738f9979abb0ee1a27693b38bfae7f95cf814bc353ddebc3c",
+    "references/routing.md": "6dacdbacb08a6fa9febc58eb6f35860a384205f81a828ae9d3df47e1733f3c4c",
+    "references/runtime.md": "13ed8951ba6579eb2f402787e4acedf6b76c9c9c1db8e58fa7a86bfe40317d98",
+    "references/sources.md": "2f87e66e5c990cbfd7e21451f54adbc69a55f0dbf427b3537c2c42de540d8144",
+    "references/verification.md": "0b1f2457a05723adeebcff964c01d32c2982cb1fc04450724177a3e052e2b9a2",
+    "scripts/common.py": "e85806b6941afb6479025e4f6f97d952c4658c743fc6dbbe5f4d2436bdbb267c",
+    "scripts/evidence_gate.py": "10ff94c985346d402de52d6537c9bd7c034d858adb6929ff870d4cf4eec5ba0b",
+    "scripts/probe_models.py": "04098d30cea92ada3ba3b72397efab234568552de68584bda95531d7f3147abe",
+    "scripts/route.py": "9527986ea7e29afcd21fadbf494ee0c1518ae6b1bd47697c508d5e7f6e1c97f1",
+    "scripts/routing_metrics.py": "8795136682cac3f62f0f6429ed492f8b3a8c5d1c0f0bf3285fc325e092324876",
+    "scripts/verify_install.py": "3102e8468be66a6624bd2a322d40e7954f872aa31fb4f57e403ad7d9520ae722",
+    "SKILL.md": "1bf4a8f87510bfee0cad6592f045ebcc10ea0ad47d106d5e361d05e7f57d240f",
+    "templates/AGENTS.md.snippet": "99f56784bd4cb7b36b39ca47e082facf659d80dbbb8487c4a94722491d2f0e66",
+    "templates/catalog.EMPTY.json": "14972c2ad09a1d71375fac0ee0b0f723695585f08b6f84467194ffa717790de0",
+    "templates/host.EMPTY.json": "6f7657ef6c44ac6a1b9239785d62f14d78daa185d621770e668ed58aec799264",
+    "templates/ledger.json": "b1f93ad9580be70ace576c81420dfd3d7c33b8275fa8d90562da7613f77a123a",
+    "templates/metrics-event.json": "90640913b4ac39d90ff197124d8b716f08357122bbc50747012bbdfe3b7c850a",
+    "templates/profiles.EMPTY.json": "8de06fc8400f690091a569d1d8dd613190714025b4179ca3505fb2eaad7ef686",
+    "templates/route-receipt.json": "d03e026ceb2a57ad22ce87c2fb015ab9d138395068153e9a1acd9dcbe0127570",
+    "templates/task.json": "e4f8a117866cf77545000adc77b3ada6d46ac46963884110d7db6d5504048e9d"
+  }
+}

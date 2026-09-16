@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "task_id": "REPLACE_WITH_ACTUAL_DELIVERABLE_ID",
+  "exceptional_stages_used": 0,
+  "autonomous_escalations_used": 0,
+  "initial_reviews_used": 0,
+  "consolidated_repairs_used": 0,
+  "focused_rechecks_used": 0,
+  "active_children": 0,
+  "notes": "Trusted coordinator/host must persist and update real attempts across all phases. Planner does not increment or enforce this ledger."
+}

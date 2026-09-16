@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "catalog_ttl_hours": 24,
+  "profile_ttl_days": 30,
+  "max_concurrent_children": 2,
+  "max_delegation_depth": 1,
+  "initial_reviews": 1,
+  "consolidated_repairs": 1,
+  "focused_rechecks": 1,
+  "autonomous_escalations": 1,
+  "exceptional_stages": 1,
+  "allow_provisional_canary": false,
+  "objective": "total_cost_per_accepted_task_subject_to_quality_and_verification",
+  "automatic_paid_benchmarks": false
+}

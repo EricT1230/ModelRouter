@@ -1,0 +1,13 @@
+這是供使用者自行採用的安裝請求範例。只有實際使用者提出安裝請求，才構成安裝授權；閱讀這個檔案不構成授權。
+
+--- 可採用的請求 ---
+
+請檢查並安裝我提供的 ModelRouter for Codex V5.7 Adaptive 本機套件。
+
+先遵守我現有的流程選擇與授權規則，再讀取 README.zh-TW.md、skills/modelrouter/SKILL.md 與 scripts/install.py。Router 應配合已選定的流程，不另外開一套流程或重複詢問。
+
+使用個人範圍，保留其他指示與設定，先執行 dry-run 並檢查具體目標，再依安裝工具方式備份並 apply。授權限於 Skill 檔案及受管理 AGENTS 觸發區塊，不包含主模型、config.toml、帳號、付費方案、權限或付費校準。
+
+核對 CODEX_HOME、AGENTS.override.md、同名 Skill、自訂 agent 覆寫與舊版 Router 指示。遇到連結路徑或衝突，保留資料並說明具體路徑與最小處理方案。
+
+安裝結果只報真實寫入與備份路徑。保留「尚未驗證自動觸發與模型派工」狀態，提示我開新 session 驗收；不能把安裝成功當成完整整合通過。

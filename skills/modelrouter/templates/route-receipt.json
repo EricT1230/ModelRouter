@@ -1,0 +1,33 @@
+{
+  "task_id": null,
+  "candidate": null,
+  "proposed_route": null,
+  "requested_route": null,
+  "host_observed_route": null,
+  "checks": [],
+  "independent_reviewer_observed": null,
+  "isolation_level": "unknown",
+  "usage": {
+    "total_input_tokens": null,
+    "cached_input_tokens_included_in_total": null,
+    "total_output_tokens": null,
+    "reasoning_tokens_included_in_output": null,
+    "actual_credits": null,
+    "actual_currency_cost": null,
+    "elapsed_seconds": null
+  },
+  "remaining_limits": [],
+  "final_state": "INCOMPLETE",
+  "note": "Template only. Fill from real host/tool outputs. Null values are unknown, never zero-cost claims.",
+  "deliverable_id": null,
+  "attempt_id": null,
+  "correction_round": null,
+  "effective_limits": null,
+  "limits_source_ref": null,
+  "dispatch_status": "NOT_REQUESTED",
+  "request_event_ref": null,
+  "result_event_ref": null,
+  "request_snapshot_sha256": null,
+  "raw_runner_stdout_ref": null,
+  "raw_runner_stderr_ref": null
+}

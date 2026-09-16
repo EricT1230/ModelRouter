@@ -1,0 +1,19 @@
+{
+  "task_id": "REPLACE_WITH_ACTUAL_DELIVERABLE_ID",
+  "goal": "Replace with the actual user goal",
+  "phase": "implement",
+  "risk": "unknown",
+  "depth": "normal",
+  "obstacle": "none",
+  "bounded": false,
+  "contract_clear": false,
+  "evidence_refs": [],
+  "required_modalities": [
+    "text"
+  ],
+  "reasoning_gap": "",
+  "independent_tracks": 0,
+  "effort_preference": null,
+  "canary_authorized": false,
+  "lifecycle": null
+}

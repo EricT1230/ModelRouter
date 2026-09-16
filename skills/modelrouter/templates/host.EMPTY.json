@@ -1,0 +1,13 @@
+{
+  "host_scope": "unknown",
+  "source_ref": "",
+  "current_model": null,
+  "current_effort": null,
+  "model_override_available": null,
+  "effort_override_available": null,
+  "fresh_context_available": null,
+  "ultra_semantics": "unknown",
+  "controls_observed": false,
+  "enforced_child_limit": null,
+  "enforced_depth_limit": null
+}

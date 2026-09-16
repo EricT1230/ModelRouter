@@ -1,0 +1,10 @@
+{
+  "name": "modelrouter",
+  "version": "5.7.0",
+  "edition": "Adaptive",
+  "python_minimum": "3.10",
+  "pinned_model_ids": [],
+  "live_target_host_validated": false,
+  "independent_external_review_completed": false,
+  "automatic_paid_benchmarks": false
+}

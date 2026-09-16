@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "illustrative_only": true,
+  "source": {
+    "kind": "empty_template",
+    "source_ref": "not_observed",
+    "host_scope": "unknown",
+    "observed_at": "1970-01-01T00:00:00+00:00",
+    "complete": false,
+    "session_bound": false
+  },
+  "models": []
+}
