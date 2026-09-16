@@ -37,8 +37,12 @@ class InstallTests(unittest.TestCase):
             self.skipTest('Windows junctions require Windows')
         import ctypes
         from ctypes import wintypes
-        self.assertTrue(link.absolute().is_relative_to(self.root))
-        self.assertTrue(target.resolve(strict=True).is_relative_to(self.root))
+        # Hosted Windows runners can spell the temporary root with an 8.3 alias
+        # while resolve() returns its long form. Compare canonical paths so this
+        # safety assertion checks location instead of path spelling.
+        resolved_root = self.root.resolve(strict=True)
+        self.assertTrue(link.absolute().is_relative_to(self.root.absolute()))
+        self.assertTrue(target.resolve(strict=True).is_relative_to(resolved_root))
         link.parent.mkdir(parents=True, exist_ok=True)
         link.mkdir()
         self.addCleanup(lambda: link.rmdir() if link.exists() else None)
