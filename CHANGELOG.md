@@ -7,6 +7,7 @@
 - Rename release archives, unpacked roots, state guidance and install examples while retaining historical changelog entries.
 - Document current same-name and nearby model-routing projects and distinguish this instruction-first Codex Skill from prompt proxies and model gateways.
 - Canonicalize temporary paths in Windows junction tests so GitHub hosted runners treat 8.3 and long path spellings as the same directory.
+- Pin the CI workflow to the Node 24 based checkout v5 and setup-python v6 action commits.
 
 ## 5.6.0 — 2026-09-16
 
